@@ -31,8 +31,6 @@
 - **Greenhouse control system** — automated climate control with sensor integration (Arduino, C)
 - **Environmental monitoring station** — sensor data acquisition and processing (Raspberry Pi, Python, Linux)
 
-📌 *See pinned repositories below.*
-
 ---
 
-📫 **Contact:** niklas-mirko.scherer@informatik.hs-fulda.de
+📫 **Contact:** scherer413@gmail.com
