@@ -8,7 +8,7 @@
 
 🤖 I work day-to-day with **agentic coding workflows in the terminal (Claude Code)** — using AI as a real engineering tool, not autocomplete.
 
-📍 Based in Germany · open to **remote** roles combining ML, embedded systems, or fullstack from **November 2026**.
+📍 Based in Germany · open to **remote or hybrid** roles combining ML, embedded systems, or fullstack from **November 2026**.
 
 ---
 
