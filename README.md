@@ -1,27 +1,38 @@
-# Hi, I'm Niklas 👋  
+# Hi, I'm Niklas 👋
 
-🎓 I'm a Health Technology student — a computer science program focused on medical and embedded systems.  
-💻 I have experience with **Python, Java, JavaScript, SQL, Arduino, and C**, gained through several university projects in software development and embedded systems.  
-⚙️ I enjoy solving technical challenges and exploring practical applications of technology in healthcare.  
+🎓 Final-semester **Computer Science (Health Technology)** student at Hochschule Fulda — a program at the intersection of embedded systems, medical technology, and software development.
 
-🌱 Currently I'm expanding my skills through **open-source and bounty projects**, focusing on small, well-defined coding tasks.  
-🚀 I like to work efficiently, learn new tools, and contribute clean, reliable code.  
+💻 During my internship at **Singulus Technologies** I built a **predictive-maintenance** pipeline on industrial sensor data: from Beckhoff / TwinCAT PLC integration and data preparation (Pandas / NumPy) to anomaly-detection models (scikit-learn, One-Class SVM) and evaluation.
 
----
+⚙️ I'm equally at home on the hardware-near side — microcontroller programming in **C / C++** and **MicroPython**, sensor & actuator integration, and IoT connectivity — and on the software side with **Python** and **JavaScript / Node.js** applications.
 
-### 🛠️ Tech Stack  
-- **Languages:** Python, Java, JavaScript, SQL, C, Arduino  
-- **Areas:** Embedded Systems, Web Development, Automation, APIs  
-- **Tools:** Git, VS Code, Linux, IntelliJ, Node.js  
+🤖 I work day-to-day with **agentic coding workflows in the terminal (Claude Code)** — using AI as a real engineering tool, not autocomplete.
+
+📍 Based in Germany · open to **remote** roles combining ML, embedded systems, or fullstack from **November 2026**.
 
 ---
 
-### 📈 Current Goals  
-- Build experience in real-world coding challenges  
-- Contribute to open-source projects  
-- Explore the intersection of software and healthcare  
+### 🛠️ Tech Stack
+
+| Area | Skills |
+|---|---|
+| **Languages** | Python, C / C++, JavaScript, SQL, Java |
+| **ML & Data** | scikit-learn, One-Class SVM, Pandas, NumPy, anomaly detection |
+| **Embedded** | Microcontrollers (Arduino, ESP32, Raspberry Pi), MicroPython, UART / SPI / I2C, sensors & actuators |
+| **Web & APIs** | Node.js / Express, REST APIs, JSON, HTML / CSS, JWT auth |
+| **Tools** | Git, Claude Code (agentic dev), Linux / Bash, MATLAB, VS Code |
 
 ---
 
-📫 **Connect:**  
-[GitHub Profile](https://github.com/Niklas7400)  
+### 🚀 Highlights
+
+- **Predictive Maintenance @ Singulus Technologies** — ML anomaly detection on industrial PLC sensor data (Python, scikit-learn, One-Class SVM, Beckhoff TwinCAT 3)
+- **Bachelor's thesis (2026)** — condition monitoring with machine learning, building on the internship
+- **Greenhouse control system** — automated climate control with sensor integration (Arduino, C)
+- **Environmental monitoring station** — sensor data acquisition and processing (Raspberry Pi, Python, Linux)
+
+📌 *See pinned repositories below.*
+
+---
+
+📫 **Contact:** niklas-mirko.scherer@informatik.hs-fulda.de
